@@ -18,11 +18,9 @@ This script was created as part of an internship project for building a deep lea
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <cloned_directory>
+    git clone git@github.com:azeebneuron/DatasetGenerator.git
+    cd DatasetGenerator
     ```
-
-    Replace `<repository_url>` with the actual URL of your repository (e.g., `https://github.com/your_username/hindi-normalization-data-gen.git`) and `<cloned_directory>` with the name of the directory git creates as a result of cloning.
 
 2.  Create a virtual environment (recommended):
 
